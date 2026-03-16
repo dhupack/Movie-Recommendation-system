@@ -1,0 +1,31 @@
+{
+  "build": "6_cp311",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "python 3.11.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "c:\\Users\\dkpra\\anaconda3\\pkgs\\python_abi-3.11-6_cp311",
+  "files": [],
+  "fn": "python_abi-3.11-6_cp311.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "c:\\Users\\dkpra\\anaconda3\\pkgs\\python_abi-3.11-6_cp311",
+    "type": 1
+  },
+  "md5": "0cdb3079c532b4d216bc9efacd510138",
+  "name": "python_abi",
+  "package_tarball_full_path": "c:\\Users\\dkpra\\anaconda3\\pkgs\\python_abi-3.11-6_cp311.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "82b09808cc4f80212be7539d542d5853e0aaa593bc715f02b831c0ea0552b8bf",
+  "size": 7348,
+  "subdir": "win-64",
+  "timestamp": 1743483205000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.11-6_cp311.conda",
+  "version": "3.11"
+}
